@@ -1,4 +1,4 @@
-Un proyecto para empezar a administrar todo tipo de cosmeticos!
+Un proyecto para empezar a administrar cosmeticos!
 
 Hecho para un negocio de administración de cosmeticos.
 
